@@ -303,7 +303,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Dataset provided by [Source Name/Organization]
+- Dataset provided by [Kaggle](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset/data)
 - Inspiration from industry best practices in customer retention analytics
 - Special thanks to academic supervisors for guidance and feedback
 
@@ -312,9 +312,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 For questions, suggestions, or collaboration opportunities:
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/customer-churn-project/issues)
+- 📧 Email: ilyass.bouchnafa33@gmail.com
+- 💼 LinkedIn: [Ilyass Bouchnafa](https://linkedin.com/in/yourprofile)
 
 ---
 
