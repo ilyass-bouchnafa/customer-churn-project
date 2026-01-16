@@ -1,0 +1,32 @@
+# Fichiers volumineux - Modèles ML et données traitées
+models/*.pkl
+models/*.h5
+models/*.joblib
+data/processed/*.csv
+data/processed/*.parquet
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
